@@ -1,8 +1,12 @@
 :root {
-    --cor-de-fundo: #bebebe
+    --cor-de-fundo: #beber
+    
 }
 
 body {
     background-color: var(--cor-de-fundo)
 }
 
+h1 {
+    background-color:white;
+}
