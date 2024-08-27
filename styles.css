@@ -1,12 +1,14 @@
-:root {
-    --cor-de-fundo: #beber
-    
-}
+@import url(style/header.css);
+
+
+:root{
+    --cor-de-fundo: #cacaca;
+    --branco: #FFFFFF;
+    }
 
 body {
-    background-color: var(--cor-de-fundo)
+    background-color: var(--cor-de-fundo);
 }
 
-h1 {
-    background-color:white;
-}
+
+
